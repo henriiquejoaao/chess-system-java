@@ -1,23 +1,23 @@
-## Jogo de Xadrez feito totalmente em Java
+## Chess game made entirely in Java
 
 <img src="https://github.com/henriiquejoaao/chess-system-java/assets/156923164/534477e0-cdae-45e7-af7e-b509d23220b1" alt="Chess System">
 
-## Conceitos abordados:
+## Interested Concepts:
 
-✔ Lógica de Programação;
+✔ Programming Logic;
 
-✔ Construtores, sobrecarga, encapsulamento;
+✔ Constructors, overloading, encapsulation;
 
-✔ Arrays, Listas, Matrizes;
+✔ Matrices, Lists;
 
-✔ Enumerações;
+✔ Enumerations;
 
-✔ Composição;
+✔ Composition;
 
-✔ Upcasting e Downcasting;
+✔ Upcasting and Downcasting;
 
-✔ Herança e Polimorfismo;
+✔ Inheritance and Polymorphism;
 
-✔ Classes e métodos abstratos;
+✔ Abstract classes and methods;
 
-✔ Tratamento de exceções e exceções personalizadas (try catch, finally).
+✔ Exception handling and custom exceptions (try catch, finally).
